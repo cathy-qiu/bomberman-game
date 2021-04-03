@@ -1,5 +1,8 @@
 # Bomberman
-:video_game: Bomberman is a classic game first released in 1987 by developer Hudson Soft. The gameplay featured a character walking around a top-down arena with impassable walls in a grid formation and bricks between them. 
+
+![bomberman](https://user-images.githubusercontent.com/36112125/113488697-abe2d000-948d-11eb-8327-4ebe52b7a957.png)
+
+:video_game: [Bomberman](https://en.wikipedia.org/wiki/Bomberman) is a classic game first released in 1987 by developer Hudson Soft. The gameplay featured a character walking around a top-down arena with impassable walls in a grid formation and bricks between them. 
 
 The goal of the game is to navigate to the exit by breaking the bricks with bombs to cut a path while dodging or blowing up the monsters that were on the map too. Bomberman has went through many different interpretations with different gameplay features and goals. 
 
