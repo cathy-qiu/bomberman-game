@@ -8,4 +8,4 @@ The goal of the game is to navigate to the exit by breaking the bricks with bomb
 
 This version of Bomberman created is a two-player battle arena version. In order to win, players use different buttons on the same keyboard to trap and explode each other with their bombs. The players would load in on opposite sides of the arena and advance towards the center by destroying the destructible bricks to eventually fight in the middle.
 
-The game is created with Java and Java Swing in NetBeans IDE.
+The game is created with **Java** and **Java Swing** in **NetBeans IDE**.
